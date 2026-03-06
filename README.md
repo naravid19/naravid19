@@ -35,12 +35,13 @@ $ ./describe_status.sh
 
 ### 📊 `[NETWORK_TELEMETRY]`
 
-<div align="center">
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=naravid19&icon_color=0891b2&title_color=00FF41&text_color=ffffff&bg_color=000000&border_color=0891b2&hide=contribs&hide_rank=true&show_icons=true&include_all_commits=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naravid19&stroke=00FF41&background=000000&ring=0891B2&fire=0891B2&currStreakNum=00FF41&currStreakLabel=0891B2&sideNums=00FF41&sideLabels=0891B2&dates=ffffff&hide_border=true&border_radius=0" alt="GitHub streak" />
-  <br><br>
+</p>
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=naravid19&icon_color=00ff41&title_color=0891b2&text_color=ffffff&bg_color=000000&border_color=00FF41&langs_count=10&layout=compact" alt="Top Languages" />
-</div>
+</p>
 
 ---
 
